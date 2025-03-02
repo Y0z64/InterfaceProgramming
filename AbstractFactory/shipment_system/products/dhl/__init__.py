@@ -1,0 +1,3 @@
+from shipment_system.products.dhl.dhl_air_shipment import DHLAirShipment
+from shipment_system.products.dhl.dhl_ground_shipment import DHLGroundShipment
+from shipment_system.products.dhl.dhl_water_shipment import DHLWaterShipment
